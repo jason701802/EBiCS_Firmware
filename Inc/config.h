@@ -69,7 +69,7 @@
 //Throttle settings
 #define THROTTLE_OFFSET 1250   //only default value, throttle offset is set at startup automatically
 #define THROTTLE_MAX 2850
-//#define THROTTLE_OVERRIDE
+#define THROTTLE_OVERRIDE
 
 //--------------------------------------------------------------------
 //Speed settings
@@ -93,7 +93,7 @@
 //torquesensor settings
 #define TS_COEF 2400
 #define TS_MODE
-//#define TQONAD1
+#define TQONAD1
 
 //---------------------------------------------------------------------
 //Display settings
